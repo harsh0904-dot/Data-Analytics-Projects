@@ -1,0 +1,22 @@
+section,metric,value
+overview,total_rows,984.0
+overview,total_columns,15.0
+kpi,readmission_rate_pct,26.83
+kpi,avg_total_cost,8367.48
+kpi,median_total_cost,6000.0
+kpi,avg_length_of_stay,37.66
+kpi,max_length_of_stay,76.0
+top_condition,Fractured Leg,67.0
+top_condition,Heart Attack,67.0
+top_condition,Fractured Arm,66.0
+top_condition,Stroke,66.0
+top_condition,Cancer,66.0
+top_state,Kerala,120.0
+top_state,Delhi,70.0
+top_state,Punjab,64.0
+top_state,Tamil Nadu,63.0
+top_state,Himachal Pradesh,45.0
+satisfaction_distribution,2,133.0
+satisfaction_distribution,3,261.0
+satisfaction_distribution,4,458.0
+satisfaction_distribution,5,132.0
